@@ -5,7 +5,7 @@ Repository of all notebooks used in Introduction to VAEs and GANs event for expl
 
 ### Some points to note on how to use this repository:
 1. Kindly open the notebooks in Colab using the "Open in Colab" button on each notebook.
-2. Experiment with the code by changing hyperparameters, epochs, learning rate, etc. If you face any abnormal outputs, feel free to ping us.
+2. Experiment with the code by changing hyperparameters, epochs, number of hidden layers, etc. If you face any abnormal outputs, feel free to ping us.
 3. Kindly follow the links mentioned in the notebooks to understand more. You are free of course to Google more resources to understand the same. 
 
 Any doubts, feel free to ask your queries, especially those who couldn't attend. 
